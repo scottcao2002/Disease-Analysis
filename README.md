@@ -7,7 +7,9 @@ Part 1 of the project deals with doing principal component analysis (PCA) on a d
 The following files need to be downloaded in order for the main script to be run correctly:
 
 MainScriptPCA.m
+
 covid_countries.csv
+
 myPCA.m
 
 # Part 2: Spatial SIR Model
@@ -16,11 +18,17 @@ Part 2 of the project deals with modelling how a disease spreads through a popul
 The following files need to be downloaded in order for the main script to be run correctly:
 
 animate.m
+
 RK4.m
+
 plotTimeSeries.m
+
 solveSpatialSIR.m
+
 dynamicsSIR.m
+
 mainScriptDiseaseSimulation.m
+
 initialValues.mat
 
 # Full Documentation
