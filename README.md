@@ -13,7 +13,7 @@ covid_countries.csv
 myPCA.m
 
 # Part 2: Spatial SIR Model
-Part 2 of the project deals with modelling how a disease spreads through a population. This is done by solving the spatial SIR model using the 4th order Runge-Kutta method. The model will be simulated on a 50x75 grid. The main script for this part is named MainScriptDiseaseSimulation.m. When this script is run, a few figures are outputted. The first 3 figures show graphs of the SIR values for grid coordinates at (1, 1), (5, 18), and (30, 70). Also, it will output a simulation for how the disease spreads through the population. The link to this simulation is here: https://www.youtube.com/watch?v=2DD_D0hONIo
+Part 2 of the project deals with modelling how a disease spreads through a population. This is done by solving the spatial SIR model using the 4th order Runge-Kutta method. The model will be simulated on a 50x75 grid. The initial data for this grid is found in initialValues.mat. The main script for this part is named MainScriptDiseaseSimulation.m. When this script is run, a few figures are outputted. The first 3 figures show graphs of the SIR values for grid coordinates at (1, 1), (5, 18), and (30, 70). Also, it will output a simulation for how the disease spreads through the population. The link to this simulation is here: https://www.youtube.com/watch?v=2DD_D0hONIo
 
 The following files need to be downloaded in order for the main script to be run correctly:
 
